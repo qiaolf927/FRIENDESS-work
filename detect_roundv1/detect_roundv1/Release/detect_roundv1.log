@@ -1,0 +1,68 @@
+﻿生成启动时间为 2015/7/29 14:05:36。
+     1>项目“D:\工作\VC程序\build\detect_roundv1\detect_roundv1\detect_roundv1.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\detect_roundv1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt detectmain.cpp
+         detectmain.cpp
+     1>detectmain.cpp(13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(16): warning C4244: “参数”: 从“double”转换到“size_t”，可能丢失数据
+     1>detectmain.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(40): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(40): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(40): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(57): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(59): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(61): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(61): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(61): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(68): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(230): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(341): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(342): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(343): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(343): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(343): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(345): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>detectmain.cpp(377): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>detectmain.cpp(379): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(380): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(395): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(396): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(397): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(398): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(414): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(415): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(416): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(417): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(452): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(504): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(516): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(556): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(570): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(590): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(601): warning C4018: “>”: 有符号/无符号不匹配
+     1>detectmain.cpp(626): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(635): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(643): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(677): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(427): warning C4101: “k”: 未引用的局部变量
+       Link:
+         d:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工作\VC程序\build\detect_roundv1\Release\detect_roundv1.exe" /NOLOGO opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\detect_roundv1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\工作\VC程序\build\detect_roundv1\Release\detect_roundv1.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工作\VC程序\build\detect_roundv1\Release\detect_roundv1.lib" /MACHINE:X86 Release\detectmain.obj
+         正在生成代码
+         已完成代码的生成
+         detect_roundv1.vcxproj -> D:\工作\VC程序\build\detect_roundv1\Release\detect_roundv1.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\工作\VC程序\build\detect_roundv1\Release\detect_roundv1.exe;#1" /manifest Release\detect_roundv1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\detect_roundv1.unsuccessfulbuild”。
+         正在对“Release\detect_roundv1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\工作\VC程序\build\detect_roundv1\detect_roundv1\detect_roundv1.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.44
