@@ -1,0 +1,5 @@
+function imnew = regionfilter1(imold)
+[r,c] = size(imold);
+regionradius = 150;
+T = 
+for i = 1

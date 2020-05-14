@@ -1,0 +1,34 @@
+function [a,b,R] = lseround(x,y)
+X1 = 0;
+Y1 = 0;
+X2 = 0;
+Y2 = 0;
+X3 = 0;
+Y3 = 0;
+X1Y1 = 0;
+X1Y2 = 0;
+X2Y1 = 0;
+for j = 1:size(x,1)
+    X1 = X1 + x(j,1);
+    Y1 = Y1 + y(j,1);
+    X2 = X2 + x(j,1)*x(j,1);
+    Y2 = Y2 + y(j,1)*y(j,1);
+    X3 = X3 + x(j,1)*x(j,1)*x(j,1);
+    Y3 = Y3 + y(j,1)*y(j,1)*y(j,1);
+    X1Y1 = X1Y1 + x(j,1)*y(j,1);
+    X1Y2 = X1Y2 + x(j,1)*y(j,1)*y(j,1);
+    X2Y1 = X2Y1 + x(j,1)*x(j,1)*y(j,1);
+end
+N = size(y,1);
+C = N*X2 - X1*X1;
+D = N*X1Y1 - X1*Y1;
+E = N*X3 + N*X1Y2 - (X2+Y2)*X1;
+G = N*Y2 - Y1*Y1;
+H = N*X2Y1 + N*Y3 - (X2+Y2)*Y1;
+aa = (H*D - E*G)/(C*G - D*D);
+bb = (H*C - E*D)/(D*D - G*C);
+cc = -(aa*X1 + bb*Y1 + X2 + Y2)/N;
+    
+a = bb/(-2); %圆心行
+b = aa/(-2); %圆心列
+R = sqrt(aa*aa + bb*bb - 4*cc)/2;

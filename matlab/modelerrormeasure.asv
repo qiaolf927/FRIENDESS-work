@@ -1,0 +1,1 @@
+function error = modelerrormeasure(better_model,cnonzero(consensus_set,1),rnonzero(consensus_set,1))
