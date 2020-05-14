@@ -1,0 +1,72 @@
+﻿生成启动时间为 2015/8/24 10:37:51。
+     1>项目“D:\工作\VC程序\build\detect_crossv1\detect_crossv1\detect_crossv1.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\detect_crossv1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt detectmain.cpp
+         detectmain.cpp
+     1>detectmain.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(59): warning C4806: “^”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+     1>detectmain.cpp(59): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(135): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(174): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(222): warning C4018: “>”: 有符号/无符号不匹配
+     1>detectmain.cpp(297): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(330): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(250): warning C4101: “num”: 未引用的局部变量
+     1>detectmain.cpp(426): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(434): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(436): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>detectmain.cpp(437): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>detectmain.cpp(439): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>detectmain.cpp(441): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(454): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(606): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(662): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(674): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(694): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(713): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(728): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(733): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(735): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(735): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(752): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(758): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(760): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(760): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(777): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(779): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(779): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(797): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(817): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(819): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(857): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(859): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(881): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(902): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(904): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>detectmain.cpp(962): warning C4018: “<”: 有符号/无符号不匹配
+     1>detectmain.cpp(967): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(967): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(967): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(967): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(968): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(968): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(968): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>detectmain.cpp(968): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         d:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工作\VC程序\build\detect_crossv1\Release\detect_crossv1.exe" /NOLOGO opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\detect_crossv1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\工作\VC程序\build\detect_crossv1\Release\detect_crossv1.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工作\VC程序\build\detect_crossv1\Release\detect_crossv1.lib" /MACHINE:X86 Release\detectmain.obj
+         正在生成代码
+         已完成代码的生成
+         detect_crossv1.vcxproj -> D:\工作\VC程序\build\detect_crossv1\Release\detect_crossv1.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\工作\VC程序\build\detect_crossv1\Release\detect_crossv1.exe;#1" /manifest Release\detect_crossv1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\detect_crossv1.unsuccessfulbuild”。
+         正在对“Release\detect_crossv1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\工作\VC程序\build\detect_crossv1\detect_crossv1\detect_crossv1.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.18

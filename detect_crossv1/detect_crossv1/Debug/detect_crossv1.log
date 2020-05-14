@@ -1,0 +1,71 @@
+﻿生成启动时间为 2015/8/24 10:10:32。
+     1>项目“D:\工作\VC程序\build\detect_crossv1\detect_crossv1\detect_crossv1.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\detect_crossv1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt detectmain.cpp
+         detectmain.cpp
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(59): warning C4806: “^”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(59): warning C4554: “^”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(135): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(174): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(222): warning C4018: “>”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(297): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(330): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(250): warning C4101: “num”: 未引用的局部变量
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(426): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(434): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(436): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(437): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(439): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(441): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(454): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(605): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(661): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(673): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(693): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(712): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(727): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(732): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(734): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(734): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(751): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(757): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(759): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(759): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(776): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(778): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(778): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(796): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(816): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(818): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(856): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(858): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(880): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(901): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(903): warning C4554: “|”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(961): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(966): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(966): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(966): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(966): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(967): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(967): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(967): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\工作\vc程序\build\detect_crossv1\detect_crossv1\detectmain.cpp(967): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         d:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工作\VC程序\build\detect_crossv1\Debug\detect_crossv1.exe" /NOLOGO opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\detect_crossv1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\工作\VC程序\build\detect_crossv1\Debug\detect_crossv1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工作\VC程序\build\detect_crossv1\Debug\detect_crossv1.lib" /MACHINE:X86 Debug\detectmain.obj
+         LINK : 没有找到 D:\工作\VC程序\build\detect_crossv1\Debug\detect_crossv1.exe 或上一个增量链接没有生成它；正在执行完全链接
+         detect_crossv1.vcxproj -> D:\工作\VC程序\build\detect_crossv1\Debug\detect_crossv1.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\工作\VC程序\build\detect_crossv1\Debug\detect_crossv1.exe;#1" /manifest Debug\detect_crossv1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\detect_crossv1.unsuccessfulbuild”。
+         正在对“Debug\detect_crossv1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\工作\VC程序\build\detect_crossv1\detect_crossv1\detect_crossv1.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.19
